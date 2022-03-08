@@ -76,18 +76,6 @@
   
 //   console.log(fibonacci(10));
 
-  
-// let fib = [0, 1];
-// let data = [];
-// let a = 2;
-// let b = 10;
-    
-// for(let i = a; i < b; i++) {
-//     fib[i] = fib[i - 1] + fib[i - 2]; 
-//     data.push(fib[i]);
-// }
-
-// console.log(data);
 
 
 // 6 - masala
