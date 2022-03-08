@@ -80,8 +80,8 @@
 
 // 6 - masala
 
-// let a = 2;
-// let b = 3;
+// let a = 4;
+// let b = 6;
 // let c = a;
 // let n = 10;
 // let newArray = [];
