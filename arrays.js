@@ -92,6 +92,19 @@
 
 // 6 - masala
 
+// let a = 2;
+// let b = 3;
+// let c = a;
+// let n = 10;
+// let newArray = [];
+// for(let i = 0; i<n; i++) {
+//     c = c + b;
+//     newArray[newArray.length] = a;
+//     a = b;
+//     b = c;
+// }
+// console.log(newArray);
+
 
 // 7-masala
 
@@ -156,16 +169,21 @@
 
 // 18-masala
 
-// let n = [9, 13, 7, 5, 8];
 
-// for (let i = 0; i < n.length; i++) {
-//     if (n[n.length] > i) {
-//         console.log(n[i]);
-//     } else {
-//         break;
+// function find(arr){
+//     let lastNumber = arr[arr.length-1]
+//     let find = 0
+//     for (let index = 0; index < arr.length; index++) {
+//         if(lastNumber>arr[index]) {
+//             // console.log(arr[index])
+//             return arr[index]
+//         }
 //     }
+//     return 0
 // }
-// console.log(0);
+
+// let arr = [6, 2, 3, 4, 5]
+// console.log(find(arr));
 
 
 // 19-masala
